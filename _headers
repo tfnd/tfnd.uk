@@ -1,6 +1,6 @@
 /*
   Access-Control-Allow-Origin: https://tfnd.uk
-  Content-Security-Policy: default-src 'self'; style-src 'self' 'sha256-IvIofnApvB2Qm9lRq6dWCCrW6xeoVpZesJOWhFlimfI='; script-src 'self' https://beamanalytics.b-cdn.net https://unpkg.com; connect-src https://lb1.beamanalytics.io https://api.websitecarbon.com; object-src 'none'
+  Content-Security-Policy: default-src 'self'; style-src 'self' 'sha256-IvIofnApvB2Qm9lRq6dWCCrW6xeoVpZesJOWhFlimfI='; script-src 'self' https://unpkg.com; connect-src https://api.websitecarbon.com; object-src 'none'
   Cross-Origin-Embedder-Policy: require-corp
   Cross-Origin-Opener-Policy: same-origin
   Cross-Origin-Resource-Policy: cross-site
